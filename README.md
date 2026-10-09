@@ -1,6 +1,6 @@
 # Healthcare Agent Lab
 
-Research-linked opportunity explorer, prototype selection workflow and fictional inbox demo. Prepared for Natasha and collaborator, 9 October 2026.
+Research-linked opportunity explorer, prototype selection workflow and fictional inbox demo. Prepared by Natasha, 9 October 2026.
 
 ## What works today
 

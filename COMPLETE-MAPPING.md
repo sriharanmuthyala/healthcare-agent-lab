@@ -1,6 +1,6 @@
 # Healthcare Agent Lab: complete opportunity map
 
-Prepared for Natasha · 9 October 2026
+Prepared by Natasha · 9 October 2026
 
 All 115 entries in the supplied Google healthcare extract, all 52 entries under Healthcare headings in the Microsoft page, and one supplementary MEDITECH excerpt. Retains the original 18 workflows. Cross-sector healthcare examples outside these sections are not an exhaustive scan.
 
